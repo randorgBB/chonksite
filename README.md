@@ -1,0 +1,2 @@
+# chonksite
+static site
